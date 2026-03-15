@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "FPT Care Clinic";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to FPT Care Clinic</h1>
+@if (!string.IsNullOrEmpty(Model.CurrentRole))
+    {
+        <p>Hello, @Model.CurrentUser?.FullName (@Model.CurrentRole)!</p>
+        @if (Model.IsPatient)
+        {
+            <p><a asp-page="/Patient/Search" class="btn btn-primary">Search Doctors & Book Appointment</a></p>
+        }
+        @if (Model.IsAdmin)
+        {
+            <p><a asp-page="/Admin/Doctors/Index" class="btn btn-primary">Manage Doctors</a></p>
+        }
+    }
+    else
+    {
+        <p>Please <a asp-page="/Account/Login">login</a> to book appointments or manage doctors.</p>
+    }
+</div>
+

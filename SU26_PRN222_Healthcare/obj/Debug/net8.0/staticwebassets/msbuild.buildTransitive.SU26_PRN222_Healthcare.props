@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SU26_PRN222_Healthcare.props" />
+</Project>

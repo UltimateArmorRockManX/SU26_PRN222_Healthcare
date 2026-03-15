@@ -1,0 +1,13 @@
+@{
+    var sessionId = Context.Request.Cookies["SessionId"];
+    if (string.IsNullOrEmpty(sessionId))
+    {
+        <a class="nav-link text-dark" asp-area="" asp-page="/Account/Login">Login</a>
+    }
+    else
+    {
+        <span class="navbar-text">Welcome, @(ViewContext.HttpContext.Items["CurrentUser"]?.ToString() ?? "User") | </span>
+        <a class="nav-link text-dark" asp-area="" asp-page="/Account/Logout">Logout</a>
+    }
+}
+

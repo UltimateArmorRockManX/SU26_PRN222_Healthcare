@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SU26_PRN222_Healthcare.props" />
+</Project>

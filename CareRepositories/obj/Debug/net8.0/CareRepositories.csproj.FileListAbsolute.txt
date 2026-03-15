@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\bin\Debug\net8.0\CareRepositories.deps.json
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\bin\Debug\net8.0\CareRepositories.runtimeconfig.json
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\bin\Debug\net8.0\CareRepositories.dll
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\bin\Debug\net8.0\CareRepositories.pdb
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\bin\Debug\net8.0\CareBusiness.dll
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\bin\Debug\net8.0\CareBusiness.pdb
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.AssemblyInfo.cs
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepo.BD9A2E92.Up2Date
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.dll
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\refint\CareRepositories.dll
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.pdb
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.genruntimeconfig.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\ref\CareRepositories.dll

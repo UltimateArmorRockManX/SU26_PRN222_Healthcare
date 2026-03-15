@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\bin\Debug\net8.0\CareBusiness.deps.json
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\bin\Debug\net8.0\CareBusiness.runtimeconfig.json
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\bin\Debug\net8.0\CareBusiness.dll
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\bin\Debug\net8.0\CareBusiness.pdb
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.AssemblyInfo.cs
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.dll
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\refint\CareBusiness.dll
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.pdb
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.genruntimeconfig.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\ref\CareBusiness.dll

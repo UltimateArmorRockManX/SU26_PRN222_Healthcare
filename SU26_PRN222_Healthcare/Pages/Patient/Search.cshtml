@@ -1,0 +1,58 @@
+@page
+@model SU26_PRN222_Healthcare.Pages.Patient.SearchModel
+@{
+    ViewData["Title"] = "Search Doctors";
+}
+
+<h1>Search Doctors</h1>
+
+<div class="row">
+    <div class="col-md-12">
+        <form method="post" class="form-inline">
+            <div class="form-group mb-3">
+                <input type="text" name="searchTerm" value="@Model.SearchTerm" class="form-control" placeholder="Search by name, specialty or license..." />
+                <button type="submit" class="btn btn-primary ms-2">Search</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.SearchTerm) && !Model.Doctors.Any())
+{
+    <div class="alert alert-info">
+        No doctors available for the selected criteria.
+    </div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Specialty</th>
+                <th>License</th>
+                <th>Max Patients/Day</th>
+                <th>Active</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var doctor in Model.Doctors)
+            {
+                <tr>
+                    <td>@doctor.ID</td>
+                    <td>@doctor.DoctorName</td>
+                    <td>@doctor.Specialty</td>
+                    <td>@doctor.LicenseNumber</td>
+                    <td>@doctor.MaxPatients</td>
+                    <td>@(doctor.Active ? "Yes" : "No")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
