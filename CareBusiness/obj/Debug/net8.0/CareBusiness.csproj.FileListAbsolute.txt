@@ -7,6 +7,7 @@ C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.AssemblyInfo.cs
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.sourcelink.json
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.dll
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\refint\CareBusiness.dll
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareBusiness\obj\Debug\net8.0\CareBusiness.pdb

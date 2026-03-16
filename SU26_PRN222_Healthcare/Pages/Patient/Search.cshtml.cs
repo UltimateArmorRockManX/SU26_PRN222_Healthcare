@@ -20,15 +20,15 @@ namespace SU26_PRN222_Healthcare.Pages.Patient
             _doctorRepo = doctorRepo;
         }
 
-        public async Task<IActionResult> OnGetAsync(string? query = null)
+        public override async Task<IActionResult> OnGetAsync()
         {
             if (!await CheckSessionAsync() || !IsPatient)
             {
                 return RedirectToPage("/Account/Login");
             }
 
-            SearchTerm = query;
-            Doctors = (await _doctorRepo.SearchAsync(SearchTerm ?? "")).ToList();
+            SearchTerm = "";
+            Doctors = (await _doctorRepo.SearchAsync("")).ToList();
             return Page();
         }
 
@@ -45,4 +45,3 @@ namespace SU26_PRN222_Healthcare.Pages.Patient
         }
     }
 }
-

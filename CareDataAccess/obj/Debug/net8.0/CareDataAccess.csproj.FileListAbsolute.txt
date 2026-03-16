@@ -11,6 +11,7 @@ C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8.0\CareDataAccess.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8.0\CareDataAccess.AssemblyInfo.cs
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8.0\CareDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8.0\CareDataAccess.sourcelink.json
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8.0\CareData.6613C7BF.Up2Date
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8.0\CareDataAccess.dll
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareDataAccess\obj\Debug\net8.0\refint\CareDataAccess.dll

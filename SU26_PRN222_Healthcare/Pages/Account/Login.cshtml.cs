@@ -74,11 +74,7 @@ namespace SU26_PRN222_Healthcare.Pages.Account
                 Expires = session.ExpiresAt
             });
 
-            if (user.Role == "Admin")
-            {
-                return RedirectToPage("/Admin/Doctors/Index");
-            }
-            return RedirectToPage("/Patient/Search");
+            return RedirectToPage("/Index");
         }
     }
 }

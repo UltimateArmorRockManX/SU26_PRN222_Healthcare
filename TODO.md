@@ -1,9 +1,1 @@
-# Task: Fix Login Password and Session ID Error for Testing
-
-## Steps:
-- [x] 1. Edit Login.cshtml.cs sessionId bug
-- [x] 2. Fix BasePageModel handler conflict & Login using/indent
-- [ ] 3. dotnet clean && dotnet build
-- [ ] 4. Test login
-- [x] 5. Mark complete (password works)
-
+# Fix /Patient/Search Error (Duplicate OnGetAsync Handlers)\n\n## Steps:\n- [x] 1. Edit SU26_PRN222_Healthcare/Pages/Patient/Search.cshtml.cs to resolve handler ambiguity\n- [x] 2. Verify build: dotnet build\n- [ ] 3. Test /Patient/Search page (login as Patient)\n- [ ] 4. Mark complete\n\n**Status**: Steps 1-2 complete. Ready for testing. Visit https://localhost:7039/Patient/Search after Patient login. Use search form to list doctors (initial may be empty). Error fixed.

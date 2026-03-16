@@ -9,6 +9,7 @@ C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\ne
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.AssemblyInfo.cs
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.sourcelink.json
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepo.BD9A2E92.Up2Date
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\CareRepositories.dll
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\CareRepositories\obj\Debug\net8.0\refint\CareRepositories.dll

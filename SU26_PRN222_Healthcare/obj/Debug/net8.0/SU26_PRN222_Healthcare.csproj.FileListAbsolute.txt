@@ -132,6 +132,7 @@ C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\De
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\Debug\net8.0\SU26_PRN222_Healthcare.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\Debug\net8.0\SU26_PRN222_Healthcare.RazorAssemblyInfo.cache
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\Debug\net8.0\SU26_PRN222_Healthcare.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\Debug\net8.0\SU26_PRN222_Healthcare.sourcelink.json
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\Debug\net8.0\scopedcss\bundle\SU26_PRN222_Healthcare.styles.css
 C:\Users\admin\source\repos\SU26_PRN222_Healthcare\SU26_PRN222_Healthcare\obj\Debug\net8.0\scopedcss\projectbundle\SU26_PRN222_Healthcare.bundle.scp.css
